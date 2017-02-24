@@ -1,0 +1,2 @@
+# comment
+kumpulan javascript comment
